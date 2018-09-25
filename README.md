@@ -1,2 +1,2 @@
 # jackly302
-blog
+some blog 
